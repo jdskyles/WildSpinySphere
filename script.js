@@ -54,14 +54,14 @@ async function setup() {
     
 
     // Fetch the exported patchers
-    let response = await fetch("https://jdskyles.github.io/WildSpinySphere/playing.export.json");
+    let response = await fetch("playing.export.json");
     const samplePatcher = await response.json();
 
     // Create the devices
     const sampleDevice = await createDevice({ context, patcher: samplePatcher });
   
     //dependency stuff
-    let dependencies = await fetch("https://jdskyles.github.io/WildSpinySphere/dependencies.json");
+    let dependencies = await fetch("dependencies.json");
     dependencies = await dependencies.json();
 
     // Load the dependencies into the device
