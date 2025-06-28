@@ -147,25 +147,25 @@
     "externalDataRefs": [
       {
         "id": "slime",
-        "file": "slime.wav",
+        "file": "https://jdskyles.github.io/WildSpinySphere/slime.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "hop",
-        "file": "hopped.wav",
+        "file": "https://jdskyles.github.io/WildSpinySphere/hopped.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "croak",
-        "file": "croaking.wav",
+        "file": "https://jdskyles.github.io/WildSpinySphere/croaking.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       },
       {
         "id": "slap",
-        "file": "slapandplop.mp3",
+        "file": "https://jdskyles.github.io/WildSpinySphere/slapandplop.wav",
         "type": "Float32Buffer",
         "tag": "buffer~"
       }
