@@ -1,18 +1,18 @@
 [
   {
     "id": "slime",
-    "file": "./audio/slime.wav"
+    "file": "https://cdn.jsdelivr.net/gh/jdskyles/WildSpinySphere/audio/slime.wav"
   },
   {
     "id": "slap",
-    "file": "./audio/slapandplop.mp3"
+    "file": "https://cdn.jsdelivr.net/gh/jdskyles/WildSpinySphere/audio/slapandplop.mp3"
   },
   {
     "id": "croak",
-    "file": "./audio/croaking.wav"
+    "file": "https://cdn.jsdelivr.net/gh/jdskyles/WildSpinySphere/audio/croaking.wav"
   },
   {
     "id": "hop",
-    "file": "./audio/hopped.wav"
+    "file": "https://cdn.jsdelivr.net/gh/jdskyles/WildSpinySphere/audio/hopped.wav"
   }
 ]
