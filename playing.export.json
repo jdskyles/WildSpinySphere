@@ -165,7 +165,7 @@
       },
       {
         "id": "slap",
-        "file": "slapandplop.wav",
+        "file": "slapandplop.mp3",
         "type": "Float32Buffer",
         "tag": "buffer~"
       }
