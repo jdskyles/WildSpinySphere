@@ -1,18 +1,18 @@
 [
   {
     "id": "slime",
-    "file": "https://github.com/jdskyles/WildSpinySphere/blob/main/slime.wav"
+    "file": "https://github.com/jdskyles/WildSpinySphere/slime.wav"
   },
   {
     "id": "slap",
-    "file": "https://github.com/jdskyles/WildSpinySphere/blob/main/slapandplop.mp3"
+    "file": "https://github.com/jdskyles/WildSpinySphere/slapandplop.mp3"
   },
   {
     "id": "croak",
-    "file": "https://github.com/jdskyles/WildSpinySphere/blob/main/croaking.wav"
+    "file": "https://github.com/jdskyles/WildSpinySphere/croaking.wav"
   },
   {
     "id": "hop",
-    "file": "https://github.com/jdskyles/WildSpinySphere/blob/main/hopped.wav"
+    "file": "https://github.com/jdskyles/WildSpinySphere/hopped.wav"
   }
 ]
