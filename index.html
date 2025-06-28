@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>   
+    <link rel="stylesheet" href="/style.css" />   
+    <!-- The website JavaScript file -->
+    <script type="text/javascript" src="https://cdn.cycling74.com/rnbo/latest/rnbo.min.js"></script>
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+  <div class="wrapper"> 
+  <button onclick ="play()"> 
+  start  
+  </button>  
+      <p>
+      <br>
+      Slide to play sounds
+      </p>
+      <input id="ratey1" class = "slider" type="range" min="-2.0" max="2.0" step="0.001" value="0">
+      <input id="ratey2" class = "slider" type="range" min="-2.0" max="2.0" step="0.001" value="0">
+      <input id="ratey3" class = "slider" type="range" min="-2.0" max="2.0" step="0.001" value="0">
+      <input id="ratey4" class = "slider" type="range" min="-2.0" max="2.0" step="0.001" value="0">
+      <p>
+        <br>
+      <button onclick ="stop()">
+       stop
+      </button>
+      </p>
+    </div>
+    <div class="wrapper">          
+    </div>
+  </body>
+</html>
